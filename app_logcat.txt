@@ -1,0 +1,122 @@
+--------- beginning of main
+05-29 07:57:08.761 25022 25022 I mple.ttsandroid: Late-enabling -Xcheck:jni
+05-29 07:57:08.779 25022 25022 I mple.ttsandroid: Using CollectorTypeCMC GC.
+05-29 07:57:08.783 25022 25022 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+05-29 07:57:08.802 25022 25022 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+05-29 07:57:08.802 25022 25022 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+05-29 07:57:09.059 25022 25022 D nativeloader: Configuring clns-9 for other apk /data/app/~~WRxGIB_DTtkJM7-DUI43qw==/com.example.ttsandroid-E8q4cbz0qnfMDbvN0mhQeQ==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~WRxGIB_DTtkJM7-DUI43qw==/com.example.ttsandroid-E8q4cbz0qnfMDbvN0mhQeQ==/lib/arm64:/data/app/~~WRxGIB_DTtkJM7-DUI43qw==/com.example.ttsandroid-E8q4cbz0qnfMDbvN0mhQeQ==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.example.ttsandroid
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment: Currently set values for:
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment: com.example.ttsandroid is not listed in per-application setting
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment: ANGLE allowlist from config: com.dreamgames.royalmatch com.dts.freefiremax com.dxx.firenow com.gramgames.mergedragons com.ludo.king com.mojang.minecraftpe com.my.defense com.nintendo.zaka com.os.airforce com.playrix.fishdomdd.gplay io.teslatech.callbreak jp.konami.prospia net.peakgames.toonblast
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment: com.example.ttsandroid is not listed in ANGLE allowlist or settings, returning default
+05-29 07:57:09.063 25022 25022 V GraphicsEnvironment: Updatable production driver is not supported on the device.
+05-29 07:57:09.073 25022 25022 I Typeface: updateThemeFont new=Rookery-Regular;old=sans-serif;new=Rookery-Stacked;old=
+--------- beginning of system
+05-29 07:57:09.074 25022 25042 I DisplayManager: Choreographer implicitly registered for the refresh rate.
+05-29 07:57:09.078 25022 25042 D vulkan  : searching for layers in '/data/app/~~WRxGIB_DTtkJM7-DUI43qw==/com.example.ttsandroid-E8q4cbz0qnfMDbvN0mhQeQ==/lib/arm64'
+05-29 07:57:09.079 25022 25042 D vulkan  : searching for layers in '/data/app/~~WRxGIB_DTtkJM7-DUI43qw==/com.example.ttsandroid-E8q4cbz0qnfMDbvN0mhQeQ==/base.apk!/lib/arm64-v8a'
+05-29 07:57:09.084 25022 25022 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+05-29 07:57:09.085 25022 25042 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+05-29 07:57:09.085 25022 25042 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+05-29 07:57:09.087 25022 25042 I AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+05-29 07:57:09.087 25022 25042 I AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+05-29 07:57:09.090 25022 25042 D qdgralloc: Fetching IMapper5 from QtiMapper5
+05-29 07:57:09.090 25022 25022 D CompatChangeReporter: Compat change id reported: 377864165; UID 10506; state: ENABLED
+05-29 07:57:09.091 25022 25022 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+05-29 07:57:09.100 25022 25042 I SnapAlloc: Graphics lib is available
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: QUALCOMM build          : 43d7c99f3a, Ic542f75f84
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Build Date              : 01/09/26
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Shader Compiler Version : E031.50.19.15
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Local Branch            : 
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.16.2.0.11.00.00.1195.535
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Remote Branch           : NONE
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Reconstruct Branch      : NOTHING
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Build Config            : C P 20.0.0 AArch64
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Driver Version          : 0842.26
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: PFP                     : 0x01310095
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: ME                      : 0x01510022
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Application Name    : android framework
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Process Name        : com.example.ttsandroid
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Application Version : 0x00000000
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Engine Name         : android framework
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Engine Version      : 0x00000000
+05-29 07:57:09.103 25022 25042 I AdrenoVK-0: Api Version         : 0x00401000
+05-29 07:57:09.108 25022 25042 I HWUI    : setGrContext nullptr-->validptr
+05-29 07:57:09.194 25022 25022 I mple.ttsandroid: hiddenapi: Accessing hidden method Landroid/os/SystemProperties;->addChangeCallback(Ljava/lang/Runnable;)V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/compose/ui/platform/AndroidComposeView$Companion; (domain=app, TargetSdkVersion=36) using reflection: allowed
+05-29 07:57:09.316 25022 25032 I mple.ttsandroid: Compiler allocated 5405KB to compile void android.view.ViewRootImpl.performTraversals()
+05-29 07:57:09.444 25022 25042 I AdrenoUtils: <ReadGpuID:1333>: Reading chip ID through GSL
+05-29 07:57:09.497 25022 25022 I Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+05-29 07:57:09.522 25022 25022 D InsetsController: hide(ime(), fromIme=false)
+05-29 07:57:09.522 25022 25022 I ImeTracker: com.example.ttsandroid:b72f1e5a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+05-29 07:57:14.290 25022 25065 D ProfileInstaller: Installing profile for com.example.ttsandroid
+05-29 07:57:22.113 25022 25022 I mple.ttsandroid: hiddenapi: Accessing hidden method Landroid/view/ViewTreeObserver;->dispatchOnScrollChanged()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/compose/ui/platform/AndroidComposeView$Companion; (domain=app, TargetSdkVersion=36) using reflection: allowed
+05-29 07:57:23.583 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:23.583 25022 25022 I ImeTracker: com.example.ttsandroid:fad1d38e: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+05-29 07:57:23.584 25022 25022 D InsetsController: Setting requestedVisibleTypes to -1 (was -9)
+05-29 07:57:23.593 25022 25022 I AssistStructure: Flattened final assist data: 968 bytes, containing 1 windows, 4 views
+05-29 07:57:23.644 25022 25022 I ImeTracker: com.example.ttsandroid:c66008a2: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+05-29 07:57:23.644 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:23.644 25022 25022 I ImeTracker: com.example.ttsandroid:c66008a2: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+05-29 07:57:23.645 25022 25022 D Autofill Status: Autofill popup isn't shown because autofill is not available.
+05-29 07:57:23.645 25022 25022 D Autofill Status: 
+05-29 07:57:23.645 25022 25022 D Autofill Status: Did you set up autofill?
+05-29 07:57:23.645 25022 25022 D Autofill Status: 1. Go to Settings > System > Languages&input > Advanced > Autofill Service
+05-29 07:57:23.645 25022 25022 D Autofill Status: 2. Pick a service
+05-29 07:57:23.645 25022 25022 D Autofill Status: 
+05-29 07:57:23.645 25022 25022 D Autofill Status: Did you add an account?
+05-29 07:57:23.645 25022 25022 D Autofill Status: 1. Go to Settings > System > Languages&input > Advanced
+05-29 07:57:23.645 25022 25022 D Autofill Status: 2. Click on the settings icon next to the Autofill Service
+05-29 07:57:23.645 25022 25022 D Autofill Status: 3. Add your account
+05-29 07:57:23.664 25022 25033 W mple.ttsandroid: userfaultfd: MOVE ioctl seems unsupported: Connection timed out
+05-29 07:57:23.728 25022 25022 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=androidx.compose.ui.window.Api33Impl$$ExternalSyntheticLambda0@5aceba3
+05-29 07:57:23.730 25022 25042 D Surface : Surface::disconnect
+05-29 07:57:23.730 25022 25042 D BufferQueueProducer: [Pop-up window#111206(BLAST Consumer)pid:25022](id:61be00000001,api:1,p:25022,c:25022) disconnect: api 1
+05-29 07:57:23.734 25022 25022 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=true, interval=10, missedFrameThreshold=-1, frameTimeThreshold=-1, package=com.example.ttsandroid
+05-29 07:57:24.027 25022 25022 I ImeTracker: com.example.ttsandroid:fad1d38e: onShown
+05-29 07:57:24.090 25022 25022 W FrameTracker: Missed App frame:JANK_APPLICATION, 68959480, 24526153, CUJ=J<IME_INSETS_SHOW_ANIMATION::0@1@com.example.ttsandroid>
+05-29 07:57:24.090 25022 25022 W FrameTracker: Missed App frame:JANK_APPLICATION, 68959503, 28251701, CUJ=J<IME_INSETS_SHOW_ANIMATION::0@1@com.example.ttsandroid>
+05-29 07:57:24.090 25022 25022 W FrameTracker: Missed App frame:JANK_APPLICATION, 68959682, 15787416, CUJ=J<IME_INSETS_SHOW_ANIMATION::0@1@com.example.ttsandroid>
+05-29 07:57:25.628 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:25.629 25022 25022 I ImeTracker: com.example.ttsandroid:e220460: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+05-29 07:57:25.629 25022 25022 I ImeTracker: com.example.ttsandroid:e220460: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+05-29 07:57:25.642 25022 25022 I ImeTracker: com.example.ttsandroid:5caae9af: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+05-29 07:57:25.643 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:25.643 25022 25022 I ImeTracker: com.example.ttsandroid:5caae9af: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+05-29 07:57:26.713 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:26.713 25022 25022 I ImeTracker: com.example.ttsandroid:79fd5779: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+05-29 07:57:26.713 25022 25022 I ImeTracker: com.example.ttsandroid:79fd5779: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+05-29 07:57:26.724 25022 25022 I ImeTracker: com.example.ttsandroid:d81ab700: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+05-29 07:57:26.724 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:26.724 25022 25022 I ImeTracker: com.example.ttsandroid:d81ab700: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+05-29 07:57:27.341 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:27.341 25022 25022 I ImeTracker: com.example.ttsandroid:dde4b0dd: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+05-29 07:57:27.341 25022 25022 I ImeTracker: com.example.ttsandroid:dde4b0dd: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+05-29 07:57:27.351 25022 25022 I ImeTracker: com.example.ttsandroid:43479829: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+05-29 07:57:27.351 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:27.351 25022 25022 I ImeTracker: com.example.ttsandroid:43479829: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+05-29 07:57:28.334 25022 25022 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=androidx.compose.ui.window.Api33Impl$$ExternalSyntheticLambda0@c1dfb8f
+05-29 07:57:28.335 25022 25042 D Surface : Surface::disconnect
+05-29 07:57:28.335 25022 25042 D BufferQueueProducer: [Pop-up window#111210(BLAST Consumer)pid:25022](id:61be00000002,api:1,p:25022,c:25022) disconnect: api 1
+05-29 07:57:30.436 25022 25022 D InsetsController: hide(ime(), fromIme=false)
+05-29 07:57:30.437 25022 25022 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@9b95678
+05-29 07:57:30.437 25022 25022 D InsetsController: Setting requestedVisibleTypes to -9 (was -1)
+05-29 07:57:30.437 25022 25022 D InsetsController: hide(ime(), fromIme=false)
+05-29 07:57:30.437 25022 25022 I ImeTracker: com.google.android.inputmethod.latin:136cc128: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+05-29 07:57:30.836 25022 25022 I ImeTracker: system_server:ffcd4978: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+05-29 07:57:33.366 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:33.367 25022 25022 I ImeTracker: com.example.ttsandroid:d3d102c5: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+05-29 07:57:33.367 25022 25022 D InsetsController: Setting requestedVisibleTypes to -1 (was -9)
+05-29 07:57:33.390 25022 25022 I ImeTracker: com.example.ttsandroid:5e228cf3: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+05-29 07:57:33.390 25022 25022 D InsetsController: show(ime(), fromIme=false)
+05-29 07:57:33.390 25022 25022 I ImeTracker: com.example.ttsandroid:5e228cf3: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+05-29 07:57:33.587 25022 25086 W SystemServiceRegistry: No service published for: moto_perf
+05-29 07:57:33.719 25022 25022 I ImeTracker: com.example.ttsandroid:d3d102c5: onShown
+05-29 07:58:03.649 25022 25022 I ImeTracker: system_server:e20f2529: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+05-29 07:58:03.660 25022 25022 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=androidx.compose.ui.window.Api33Impl$$ExternalSyntheticLambda0@c0dabbe
+05-29 07:58:03.661 25022 25042 D Surface : Surface::disconnect
+05-29 07:58:03.661 25022 25042 D BufferQueueProducer: [Pop-up window#111214(BLAST Consumer)pid:25022](id:61be00000003,api:1,p:25022,c:25022) disconnect: api 1
+05-29 07:58:05.477 25022 25022 I ImeTracker: system_server:a27ed7b6: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+05-29 07:58:05.478 25022 25022 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@9b95678
